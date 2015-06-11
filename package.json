@@ -1,0 +1,15 @@
+{
+  "name": "backport-ec2-tags",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.1.33",
+    "minimist": "^1.1.1"
+  }
+}
