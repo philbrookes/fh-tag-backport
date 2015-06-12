@@ -47,11 +47,11 @@ function fixTagsFor(instance){
       ],
       Tags: [
         {
-          Key: 'Role',
+          Key: 'fh-tag-role',
           Value: role
         },
         {
-          Key: 'Environment',
+          Key: 'fh-tag-environment',
           Value: cluster + "-" + site
         }
       ],
